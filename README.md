@@ -1,23 +1,21 @@
-Version **1.0.0-alpha**.
+Version **1.1.0-alpha**.
 # Nuages de points
-OS supportÃ© : Windows.
-Ce logiciel a pour but la visualisation de points puis l'approximation de ces derniers par des fonctions mathÃ©matiques suivant le principe des moindres carrÃ©es.
-Contrairement Ã  d'autres logiciels, Nuages de points permet de soumettre les donnÃ©es qu'on lui fournit Ã  des contraintes diffÃ©rentielles.
-Il existe quatre modes d'exÃ©cution du logiciel : Droites, Plans, 2D ou 3D.
+OS supporté : Windows.
+Ce logiciel a pour but la visualisation de points puis l'approximation de ces derniers par des fonctions mathématiques suivant le principe des moindres carrées.
+Contrairement à d'autres logiciels, Nuages de points permet de soumettre les données qu'on lui fournit à des contraintes différentielles.
+Il existe quatre modes d'exécution du logiciel : Droites, Plans, 2D ou 3D.
 
 # Installation
 ## Contributeurs
 
 
 ## Utilisateurs
-TÃ©lÃ©chargez le .jar puis lancez-le (le dÃ©marrage peut prendre du temps).
+Téléchargez le .jar puis lancez-le (le démarrage peut prendre du temps).
 
-# FonctionnalitÃ©s en attente pour la version 1.0.0
+# Fonctionnalités en attente pour la version 1.0.0
 - Visualisation des points et des droites sur un graphe
-- Gestion d'une prÃ©cision au delÃ  de 10^-12
-- Sauvegarde du travail
-- Exportation des donnÃ©es calculÃ©es
+- Exportation des données calculées
 
 # En savoir plus
-Ce logiciel est une idÃ©e originale de M. Bernard Pisula. Il a Ã©tÃ© dÃ©veloppÃ© par M. Romain Gogdemir et Mme Camille Menou.
-DÃ©veloppÃ© en Java, il utilise une dll ([javagiac](https://www-fourier.ujf-grenoble.fr/~parisse/javagiac.html)), permettant d'interprÃ©ter des programmes mathÃ©matiques Ã©crits en Xcas.
+Ce logiciel est une idée originale de M. Bernard Pisula. Il a été développé par M. Romain Gogdemir et Mme Camille Menou.
+Développé en Java, il utilise une dll ([javagiac](https://www-fourier.ujf-grenoble.fr/~parisse/javagiac.html)), permettant d'interpréter des programmes mathématiques écrits en Xcas.
